@@ -20,6 +20,5 @@
 91_既存環境構築_ExistingEnvironment
 92_試験環境構築_NewEnvironment
 99_ゴミ箱_trash
-prj_folder_name_list
-prj_folder_name_list.txt
+project_folder構成.txt
 README.txt
